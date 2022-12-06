@@ -7,3 +7,8 @@ for i in splited_text:
     acronym += i[0].upper()
 print(splited_text)
 print(acronym)
+
+
+# input= tahia binte humayun
+#output= TBH
+# date= 6th december 2022
